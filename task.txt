@@ -1,0 +1,15 @@
+Challenge number 2 : 
+
+1. Go to ineuron , krish , collegewallah channel 
+2. Find out how many videos are uplaoded 
+3. take input  url for a particualr video and give me below output
+    1. Video title
+    2. video Details 
+    3. number of likes 
+    4. person name with commnet 
+4. strore all the information in a MYSQL DB (you have to design your own table mention it in your git link)
+5. logging is mandatory 
+6. Exception handling is nescessary 
+7. modular coding is nescessary
+8. Classs and object is must 
+9. Finally submit your 3 hosted URL to me and sunny along with your code base git hub link    
