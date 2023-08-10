@@ -1,5 +1,0 @@
-python person_comment.py
-mysql -u root -p
-select * from channel_details.specifications;
-drop database channel_details;
-show databases;
